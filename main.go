@@ -19,5 +19,6 @@ func main() {
 	res4, res5 := division.Divide(10, 20)
 	fmt.Println(res4)
 	fmt.Println(res5)
+	fmt.Println("The code execution is completed")
 
 }
